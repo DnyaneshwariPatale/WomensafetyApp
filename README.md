@@ -38,8 +38,7 @@ Hit Run Button !
 
 ------------
 
-Full Project demonstration Youtube :<br>
-Link - https://youtu.be/E0WLnlkPDJY
+
 
 **Free Software, Hell Yeah!**
 
